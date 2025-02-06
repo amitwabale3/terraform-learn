@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dynamo_db_creation","Source":"./modules/dynamo_db_creation","Dir":"modules/dynamo_db_creation"},{"Key":"ec2_instance","Source":"./modules/ec2_instance","Dir":"modules/ec2_instance"},{"Key":"s3_creation","Source":"./modules/s3_creation","Dir":"modules/s3_creation"}]}
